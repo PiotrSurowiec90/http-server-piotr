@@ -25,8 +25,3 @@
 4. Send basic HTTP respose with the status - 200 and Hello World! as a content.
 5. Close the client connection.
 
-
-<br>
-[Next - Server file](https://github.com/PiotrSurowiec90/http-server-piotr/blob/main/server.py)
-<br>
-[Step 3 - Q and A](https://github.com/PiotrSurowiec90/http-server-piotr/blob/main/QandA.md)
