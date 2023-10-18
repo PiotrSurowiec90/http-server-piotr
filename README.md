@@ -23,3 +23,8 @@ and work with templates)
   as it is interesting topic.
 
 ```
+[Step 1 - Just enough about sockets and building steps explained](https://github.com/PiotrSurowiec90/http-server-piotr/blob/main/info.md)
+<br>
+[Step 2 - Server file](https://github.com/PiotrSurowiec90/http-server-piotr/blob/main/server.py)
+<br>
+[Step 3 - Q and A](https://github.com/PiotrSurowiec90/http-server-piotr/blob/main/QandA.md)
